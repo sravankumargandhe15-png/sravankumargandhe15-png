@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Animated GitHub profile banner](./dark.svg)
 <!--
 **sravankumargandhe15-png/sravankumargandhe15-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
