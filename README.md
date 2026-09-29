@@ -1,5 +1,15 @@
 ## Hi there 👋
 ![Dark animated profile banner](./dark.svg)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="100%" src="https://streak-stats.demolab.com?user=sravankumargandhe15-png&amp;background=0A101F&amp;border=1F2937&amp;ring=A78BFA&amp;fire=10B981&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;currStreakLabel=22D3EE&amp;sideLabels=C9D1D9&amp;dates=8B949E" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-rouge-gamma-42.vercel.app/api?username=sravankumargandhe15-png&amp;show_icons=true&amp;hide_rank=true&amp;bg_color=0A101F&amp;title_color=A78BFA&amp;icon_color=22D3EE&amp;text_color=C9D1D9&amp;border_color=1F2937" alt="GitHub stats" />
+  <img width="49%" src="https://github-readme-stats-rouge-gamma-42.vercel.app/api/top-langs/?username=sravankumargandhe15-png&amp;layout=compact&amp;bg_color=0A101F&amp;title_color=A78BFA&amp;icon_color=22D3EE&amp;text_color=C9D1D9&amp;border_color=1F2937" alt="Top languages" />
+</p>
 ## 🐍 My Contributions
 
 <picture>
