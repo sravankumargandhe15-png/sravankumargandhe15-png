@@ -22,6 +22,11 @@
   <img alt="GitHub contribution snake animation"
     src="https://raw.githubusercontent.com/sravankumargandhe15-png/Gandhe-Sravan-Kumar/output/github-snake.svg">
 </picture>
+## 🔗 Connect with me
+
+<a href="https://www.linkedin.com/in/sravankumar-gandhe"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="mailto:sravankumargandhe15@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A101F?style=for-the-badge&amp;logo=gmail&amp;logoColor=EA4335" alt="Email" /></a>&nbsp;&nbsp;
+<a href="https://gandhe-sravan-kumar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
 <!--
 **sravankumargandhe15-png/sravankumargandhe15-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
