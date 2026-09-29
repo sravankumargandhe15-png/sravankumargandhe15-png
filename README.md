@@ -10,7 +10,7 @@
   <img width="49%" src="https://github-readme-stats-rouge-gamma-42.vercel.app/api?username=sravankumargandhe15-png&amp;show_icons=true&amp;hide_rank=true&amp;bg_color=0A101F&amp;title_color=A78BFA&amp;icon_color=22D3EE&amp;text_color=C9D1D9&amp;border_color=1F2937" alt="GitHub stats" />
   <img width="49%" src="https://github-readme-stats-rouge-gamma-42.vercel.app/api/top-langs/?username=sravankumargandhe15-png&amp;layout=compact&amp;bg_color=0A101F&amp;title_color=A78BFA&amp;icon_color=22D3EE&amp;text_color=C9D1D9&amp;border_color=1F2937" alt="Top languages" />
 </p>
-## 🐍 My Contributions
+<h2>🐍 My Contributions</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
